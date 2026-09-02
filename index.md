@@ -61,4 +61,4 @@ https://policies.google.com/privacy
 開發者：GN98004 Studio  
 應用程式：《幽夜魔液》  
 套件名稱：com.gn98004.magic2222  
-電子郵件：請在此填入你的開發者聯絡信箱
+電子郵件：gn98004@gmail.com
